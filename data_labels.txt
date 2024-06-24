@@ -1,0 +1,8 @@
+participant: subject id number
+target_duration: duration of the target stimuli in both sequences (in seconds)
+distractors_duration_2: duration of the distractors in the second sequence (in seconds)
+distractors_duration_1:duration of the distractors in the first sequence (in seconds)
+response: participant's response; 0 = target from first sequence is longer, 1 = target from second sequence is longer
+response_RT: participant's reaction time (in milliseconds)
+condition: experimental condition; control, ensemble or distractors
+trial: trial number within condition and participant
